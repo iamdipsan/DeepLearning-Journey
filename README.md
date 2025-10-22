@@ -75,7 +75,7 @@ DeepLearning-Journey/
 
 ```
 
-Progress Tracker
+Progress Tracker(Main Folders)
 ----------------
 
 | Topic | Status | Commit Date |
