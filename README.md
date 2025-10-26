@@ -103,6 +103,7 @@ Progress Tracker(Main Folders)
 | Data Augmentation | Completed | 2025-10-21 |
 | Pretrained Model (ResNet50) | Completed | 2025-10-21 |
 | Transfer Learning | Completed | 2025-10-22 |
+| Functional API | Completed | 2025-10-25 |
 | RNN Basics | In Progress | 2025-10-21 |
 
 Contributing
